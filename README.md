@@ -1,4 +1,5 @@
-# FixedPoint-Sharp
+# C# FixedPoint Library 
+This is a for ok [FixedPoint-Sharp](https://github.com/RomanZhu/FixedPoint-Sharp) that has been updated to be more Unity-centric.
 
 ## Features
 - LUT-based trigonometry with lerping
